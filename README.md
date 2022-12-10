@@ -1,2 +1,2 @@
-# pr2 Extende description
+# pr2 Extend description
 in file readme.
